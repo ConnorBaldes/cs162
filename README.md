@@ -44,7 +44,7 @@ Each subfolder under 'projects' and 'labs' holds the code for its respective tas
 
 
 All projects in this repository are implemented in C++ and adhere to the following guidelines:
-- **C++ Version**: C++11 or later functionality is used. The Makefile is configured to compile the code with the flag `-std=c++11`.
+- **C++ Version**: Up to C++11 functionality is allowed to be used.     Makefiles are configured to compile the code with the flag `-std=c++11`.
 - **Programming Style/Comments**: Proper indentation and spacing are used throughout. All functions and classes are documented with comments, and this program header is included in each file:
 
     ```cpp
