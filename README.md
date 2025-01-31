@@ -27,7 +27,7 @@ This repository contains code for several projects and labs completed during the
     - [`pizza_portal`](./projects/pizza_portal/)
     - [`zoo_tycoon`](./projects/zoo_tycoon/)
 - **Labs:**
-    - [`one`](./labs/one/), [`two`](./labs/three/), [`three`](./labs/three/),[`four`](./labs/four/),[`six`](./labs/six/),[`seven`](./labs/seven/),[`eight`](./labs/eight/),  [`nine`](./labs/nine/)  
+    - [`two`](./labs/three/), [`three`](./labs/three/),[`four`](./labs/four/),[`six`](./labs/six/),[`seven`](./labs/seven/),[`eight`](./labs/eight/),  [`nine`](./labs/nine/)  
     - [`prof_practice`](./labs/prof_practice/) (A personal implementation for the Proficiency Exam, focusing on OOP)
 
 Each subfolder under 'projects' and 'labs' holds the code for its respective task, showcasing the application of the concepts covered in the course.
